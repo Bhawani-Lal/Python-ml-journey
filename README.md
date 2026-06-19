@@ -11,4 +11,4 @@ Daily Python and ML learning from zero to Data Engineer & ML Engineer level.
 |---|---|---|
 | Session 01 | Variables, Data Types, Strings, f-strings | ✅ Done |
 | Session 02 | Lists, Loops, Conditions | ✅ Done |
-| Session 03 | Functions & Dictionaries | 🔄 In Progress |
+| Session 03 | Functions & Dictionaries |✅ Done|
