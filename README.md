@@ -13,4 +13,6 @@ Daily Python and ML learning from zero to Data Engineer & ML Engineer level.
 | Session 02 | Lists, Loops, Conditions | ✅ Done |
 | Session 03 | Functions & Dictionaries |✅ Done|
 |Session 04 |  Tuples, Sets and String Methods |✅ Done|
-| Session 05 | List Comprehensions & File Handling | 🔄 In Progress |
+| Session 05 | List Comprehensions & File Handling |✅ Done |
+|Session 06 | NumPy Numerical Python |✅ Done|
+| Session 07 | Pandas + Real Kaggle Dataset | 🔄 In Progress |
